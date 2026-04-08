@@ -31,7 +31,7 @@ if 'loyalty' not in st.session_state:
     st.session_state.heat = 10
 
 # --- HEADER ---
-st.title(f"🏛️ {config['gang_name']} Syndicate")
+st.title(f"🏛️ {config['gang_name']} The Grays")
 st.caption(f"{config['location']} | {config['year']}")
 
 # --- STATUS BAR ---
