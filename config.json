@@ -1,0 +1,13 @@
+{
+    "gang_name": "The Grays",
+    "location": "Caliga Hall",
+    "year": 1912,
+    "characters": [
+        {"id": 0, "name": "Nik", "role": "The Enforcer", "coords": [40, 190, 160, 310]},
+        {"id": 1, "name": "Buck", "role": "Logistics", "coords": [260, 190, 380, 310]},
+        {"id": 2, "name": "Sonny", "role": "The Auditor", "coords": [40, 370, 160, 490]},
+        {"id": 3, "name": "Jed", "role": "The Scout", "coords": [310, 370, 430, 490]},
+        {"id": 4, "name": "Elena", "role": "The Specialist", "coords": [280, 710, 400, 830]},
+        {"id": 5, "name": "Myles", "role": "The Strategist", "coords": [760, 710, 880, 830]}
+    ]
+}
